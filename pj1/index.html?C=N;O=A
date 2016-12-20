@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~jrs/61b/hw/pj1</title>
+ </head>
+ <body>
+<h1>Index of /~jrs/61b/hw/pj1</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/~jrs/61b/hw/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Blur.java">Blur.java</a>              </td><td align="right">2014-02-08 15:56  </td><td align="right">3.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ImageUtils.java">ImageUtils.java</a>        </td><td align="right">2014-02-18 09:23  </td><td align="right">6.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="PixImage.java">PixImage.java</a>          </td><td align="right">2014-02-10 21:12  </td><td align="right"> 12K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="RunIterator.java">RunIterator.java</a>       </td><td align="right">2014-02-08 16:17  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="RunLengthEncoding.java">RunLengthEncoding.java</a> </td><td align="right">2014-02-08 16:17  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Sobel.java">Sobel.java</a>             </td><td align="right">2014-02-08 15:56  </td><td align="right">5.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="TIFF6.pdf">TIFF6.pdf</a>              </td><td align="right">2014-02-11 22:06  </td><td align="right">389K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="TIFFEncoder.java">TIFFEncoder.java</a>       </td><td align="right">2014-02-08 15:56  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Test.java">Test.java</a>              </td><td align="right">2014-02-20 15:44  </td><td align="right"> 30K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="baby.tiff">baby.tiff</a>              </td><td align="right">2014-02-08 16:26  </td><td align="right">154K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="black.tiff">black.tiff</a>             </td><td align="right">2014-02-08 16:12  </td><td align="right">192K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[CMP]"></td><td><a href="data.gz">data.gz</a>                </td><td align="right">2014-02-18 09:24  </td><td align="right">1.0M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="engine.tiff">engine.tiff</a>            </td><td align="right">2014-02-08 16:28  </td><td align="right">901K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="feathers.tiff">feathers.tiff</a>          </td><td align="right">2014-02-08 16:31  </td><td align="right">165K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="flower.tiff">flower.tiff</a>            </td><td align="right">2014-02-08 16:12  </td><td align="right">805K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="highcontrast.tiff">highcontrast.tiff</a>      </td><td align="right">2014-02-08 16:12  </td><td align="right">703K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jai_codec.jar">jai_codec.jar</a>          </td><td align="right">2014-02-08 15:56  </td><td align="right">252K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jai_core.jar">jai_core.jar</a>           </td><td align="right">2014-02-08 15:56  </td><td align="right">1.8M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="readme">readme</a>                 </td><td align="right">2014-02-10 21:34  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="readme.pdf">readme.pdf</a>             </td><td align="right">2014-02-10 21:34  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/a.gif" alt="[   ]"></td><td><a href="readme.ps">readme.ps</a>              </td><td align="right">2014-02-10 21:34  </td><td align="right"> 45K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="reggie.tiff">reggie.tiff</a>            </td><td align="right">2014-02-08 16:12  </td><td align="right">173K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="woman.tiff">woman.tiff</a>             </td><td align="right">2014-02-08 16:12  </td><td align="right">141K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>

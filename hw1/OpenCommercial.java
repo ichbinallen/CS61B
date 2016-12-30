@@ -41,9 +41,13 @@ class OpenCommercial {
     is = url.openStream();
     dis = new DataInputStream(new BufferedInputStream(is));
 
+    String[] lines = new String[5];
     for (int i = 0; i < 5; i++) {
-        line = dis.readLine();
-        System.out.println(line);
+        lines[i] = dis.readLine();
+    }
+
+    for (int j = 4; j >= 0; j--) {
+        System.out.println(lines[j]);
     }
   }
 }
